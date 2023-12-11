@@ -1,0 +1,99 @@
+{
+    "name": "Upcoming giveaway",
+    "plashUp": "Australia's fairest & most exclusive membership club",
+    "title": "IN A WORLD OF GREED, A FAIR KING AS COME.",
+    "subTitle": "The best way to score HUGE deals and win MASSIVE prizes!",
+    "allPrize": {
+        "accentTitle": "50",
+        "title": "winners every draw! Every, single, month!",
+        "text1": "The Big Baba doesn't have room for everyone. Our club is currently capped at 5,000 members ONLY.",
+        "text2": " 1 member = 1 entry.",
+        "text3": "The odds are completely even between all participants. No tier systems; no accumulating tickets. Everyone gets a fair go at The Big Baba."
+    },
+
+    "howItWorks": {
+        "title": "How it works",
+        "cards": [
+            {
+                "title": "Join us",
+                "text": "By purchasing any package, you will automatically gain access to all the perks at The Big Baba."
+            },
+            {
+                "title": "Instant Benefits",
+                "text": "Gain access to our members ONLY store, which will host our a upcoming Superbuys. A chance to own the most coveted items at prices unheard of!"
+            },
+            {
+                "title": "Game Time, Give Time",
+                "text": "When you join The Big Baba, you automatically support hand-picked charity organisations.You will also be apart of our exclusive VIP events."
+            },
+            {
+                "title": "Win Time",
+                "text": "Watch us announce all 50 winners live on our socials!Once your name has been picked from the draw, get ready to receive your prize and bask in the glory of victory. The Big Baba keeps on giving."
+            }
+        ]
+    },
+    "weDoThings": {
+        "title": "We do things a little differently",
+        "subTitle": "The Big Baba is here to change the game. We’ve thrown out the old playbook, unfairness has no place in The Big Baba. No more BS, no more loopholes.",
+        "tabs": [
+            {
+                "title": "Baba's VIP Store",
+                "text": "Not only will our upcoming members-only store feature the latest and greatest tech and accessories, but we'll also have exclusive Big Baba branded merchandise that you won't find anywhere else! From stylish t-shirts to flagship devices, we'll have it all. And the best part? The prices are unbelievable, so you can snag your favourite items without breaking the bank. At The Big Baba, we're all about giving back to our loyal circle, and the store is just one more way we're doing it!"
+            },
+            {
+                "title": "Baba's Bucks",
+                "text": "The Big Baba is big on loyalty, so every dollar spent at The Big Baba rewards our members with redeemable points that can be used towards our store or on a new membership"
+            },
+            {
+                "title": "50 Winners is Every draw",
+                "text": "We told you we were different and to prove that; The Big Baba offers 20 substantial prizes for our members in every draw. But Big Baba doesn't just stop there we also offer an additional 30 people a second-chance to automatically get added to our next draw. That includes an additional 30 days of membership, along with all of its perks!"
+            },
+            {
+                "title": "No Tiers, No Tricks",
+                "text": "You can trust The Big Baba, we have a strict fair-play only policy. By capping both entries and entrants, we guarantee that everyone has an equal chance of winning, there's no room for any sneaky tactics. Our goal is to create a transparent and trustworthy platform for all, where you can enjoy our free giveaways without any of the marketing BS or trickery."
+            },
+            {
+                "title": "Capped Entries/Entrants",
+                "text": "At The Big Baba, we're big on fair and as such, we've gone completely against the grain. Not only have we ditched tier systems and are creating 50 winners every draw with massive prize pools. We won't stop there, we've capped every draw at 5,000 tickets! Meaning no unfair advantages. We're not just after your money, we are here to change the game completely! 1 entrant equals 1 entry, as simple as that."
+            }
+        ]
+    },
+
+    "upcomingGiveaway": {
+        "title": "Upcoming giveaway",
+        "text": "Discover the latest and greatest promotions up for grabs at The Big Baba. Don’t miss your chance to win big – check out our ongoing giveaways and enter to WIN today!",
+        "announcement": "$100,000.00, 50 Prize Giveaway",
+        "spotsFilled" : "Spots Filled (3424/5000)"
+    },
+    "ourWinners": {
+        "title": "Our winners",
+        "text": "50 winners every month - what will you win?"
+    },
+    "questions": {
+        "title": "Frequently Asked Questions",
+
+        "list": [
+            {
+                "title": "What is The Big Baba?",
+                "text": "The Big Baba is the fairest rewards and membership club, which hosts an ever-growing online store.At The Big Baba, our mission is to help Aussies save as much money as possible and give away themost free prizes in Australia while giving our loyal members the fairest go possible! We will changelives!"
+            },
+            {
+                "title": "What makes The Big Baba different from the rest?",
+                "text": "Equality, fairness, total transparency and REAL saving on loads of goods! We’re not like the rest, as a matter of fact, we’re completely different!  By joining The Big Baba, you will help support the growth and gain instant access to our exclusive online store, where you can save hundreds worth! Not convincing enough? When you become a member at The Big Baba, you’re automatically added into the current free giveaway, but here’s the biggest difference. We don’t make 1 winner, or 2, nor 3…..We create 50 winners in every single draw! Yes, you heard right, 50. With most prize pools approximating $100,000 in value! And each giveaway is capped at 5000 members!!!!! More winners = more smiles and We’re on track to putting the most smiles on Australian faces. Less profit for us, more smiles for you!"
+            },
+            {
+                "title": "How much does it cost to become a part of The Big Baba club?",
+                "text": "Our membership are separated by 2 categories: One-off payment member – Which gains you one-month access to our exclusive store and a free entry into the current giveaway. For $74.99 or Monthly recurring VIP exclusive access – Which grants you all of the insane perks that are included with it, along with a free entry into every give away we run monthly! For just $49.99/month"
+            },
+            {
+                "title": "How will I know if I won?",
+                "text": "We will contact you! We start with a phone call and if we get no answer (we will attempt multiple times throughout the week), we follow with a text message. You will also receive an email confirming your win!"
+            },
+            {
+                "title": "How does the loyalty points system work?",
+                "text": "Each time a purchase is made on The Big Baba, (Exclusive to VIP members only) be it on your monthly membership or in our exclusive store, you gain some Baba’s Bucks. (NOT APPLICABLE TO SUPERBUYS) For every $10 spend on our website you instantly gain 1 Baba Buck, You can use these points towards your monthly membership or alternatively in Big Baba’s store!"
+            }
+           
+        ]
+    }
+}

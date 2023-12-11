@@ -1,0 +1,62 @@
+@import "@/assets/styles/variables";
+
+.nav {
+    @include container;
+
+    width: 100%;
+    padding: 14px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+}
+
+.list {
+    display: flex;
+    align-content: center;
+    gap: 50px;
+
+    a {
+        display: flex;
+        align-items: center;
+        column-gap: 8px;
+
+        color: inherit;
+        font-size: 18px;
+        font-weight: 700;
+        letter-spacing: 0.27px;
+
+        transition: opacity 0.2s ease-in-out;
+
+        &:hover {
+            opacity: 0.8;
+        }
+    }
+}
+
+.loginBtn {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+
+    padding: 14px 20px;
+
+    border-radius: 5px;
+    background-color: $accent-color;
+
+    color: #000;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 100%; /* 18px */
+    letter-spacing: 0.27px;
+
+    transition: opacity 0.2s ease-in-out;
+
+    &:hover {
+        opacity: 0.8;
+    }
+}

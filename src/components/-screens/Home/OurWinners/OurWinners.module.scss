@@ -1,0 +1,105 @@
+.our-winners {
+    margin-bottom: 100px;
+}
+
+.header {
+    margin-bottom: 50px;
+    h2 {
+        margin-bottom: 25px;
+    }
+}
+
+.slider {
+    position: relative;
+}
+.slide-prev,
+.slide-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-30%);
+
+    svg {
+        vertical-align: middle;
+    }
+}
+.slide-prev {
+    left: -32px;
+}
+.slide-next {
+    right: -22px;
+    transform: rotate(180deg);
+}
+
+//CARD
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+
+    width: 154px;
+    height: 148px;
+    border-radius: 5px;
+    border: 1px solid #1b1b1b;
+
+    background: #101010;
+
+    &-img-wrapp {
+        padding: 14px;
+
+        border-radius: 6px;
+        border: 1px solid #1b1b1b;
+        background: #000;
+
+        svg {
+            vertical-align: middle;
+        }
+    }
+    &-text {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 100%; /* 18px */
+        letter-spacing: 0.27px;
+    }
+
+    &.gold,
+    &.silver,
+    &.bronze {
+        color: #000;
+    }
+
+    &.gold {
+        background: conic-gradient(
+            from 136deg at 50% 50%,
+            #ffe073 0deg,
+            #ffe27b 60.00000178813934deg,
+            #fff5d2 109.21634316444397deg,
+            #fff 176.2500035762787deg,
+            #ffe27b 288.7499928474426deg,
+            #ffc700 360deg
+        );
+    }
+    &.silver {
+        background: conic-gradient(
+            from 136deg at 50% 50%,
+            #ffede9 0deg,
+            #8e8e8e 60.00000178813934deg,
+            #717171 109.21634316444397deg,
+            #fff 176.2500035762787deg,
+            #636363 288.7499928474426deg,
+            #6f6f6f 360deg
+        );
+    }
+    &.bronze {
+        background: conic-gradient(
+            from 136deg at 50% 50%,
+            #ffede9 0deg,
+            #ff5f3c 60.00000178813934deg,
+            #ff5f3c 109.21634316444397deg,
+            #fff 176.2500035762787deg,
+            #ff5f3c 288.7499928474426deg,
+            #ff5f3c 360deg
+        );
+    }
+}

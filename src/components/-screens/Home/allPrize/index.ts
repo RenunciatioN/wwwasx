@@ -1,0 +1,1 @@
+export { AllPrize } from "./AllPrize";

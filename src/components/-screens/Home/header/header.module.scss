@@ -1,0 +1,58 @@
+@import "@/assets/styles/variables";
+
+.header {
+    padding: $section-ident 0;
+
+    .buttonWrapp {
+        margin-bottom: 100px;
+    }
+}
+
+.headerContent {
+    max-width: 545px;
+    margin: 0 auto;
+
+    text-align: center;
+
+    p {
+        max-width: 330px;
+        margin: 0 auto;
+        margin-bottom: 25px;
+
+        color: $text-color;
+    }
+}
+
+.plashUp {
+    display: inline-block;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 15px 60px;
+    margin-bottom: 25px;
+
+    color: $accent-color;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%; /* 21.6px */
+    letter-spacing: 0.27px;
+
+    border-radius: 5px;
+    border: 1px solid $accent-color;
+    background: rgba(255, 82, 82, 0.1);
+}
+.title {
+    margin-bottom: 25px;
+
+    color: #fff;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 120%; /* 57.6px */
+    letter-spacing: -0.48px;
+}
+
+.video {
+    width: 100%;
+    margin-bottom: $section-ident;
+}

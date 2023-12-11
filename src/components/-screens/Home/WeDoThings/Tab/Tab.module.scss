@@ -1,0 +1,48 @@
+@import "@/assets/styles/variables";
+
+.tab {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    width: 264px;
+    height: 200px;
+
+    border-radius: 5px;
+    border: 1px solid #1b1b1b;
+    background: linear-gradient(180deg, #0d0d0d 0%, rgba(13, 13, 13, 0) 100%);
+    cursor: pointer;
+}
+
+.icon-wrapp {
+    padding: 18px;
+    margin-bottom: 50px;
+
+    background: #222;
+    border-radius: 5px;
+}
+
+.tab.active {
+    .icon-wrapp {
+        @include icon-shadow;
+
+        img {
+            filter: invert(1);
+        }
+    }
+
+    background: linear-gradient(
+        123deg,
+        #ff8165 11.33%,
+        rgba(13, 13, 13, 0.42) 69.68%
+    );
+}
+
+.title {
+    color: #ddd;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 100%; /* 18px */
+    letter-spacing: 0.27px;
+}
